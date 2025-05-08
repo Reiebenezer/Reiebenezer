@@ -6,7 +6,7 @@ I am a student, web developer, and journalist.
 - 🎓 Bachelor of Science in Computer Science (3rd Year), major in `Artificial Intelligence`
 - 🏫 West Visayas State University
 - 🖋 Forum-Dimensions (The Official Publication of West Visayas State University) Staffer
-- Learned Web Development only since 2023, now a well-versed `Fullstack` Developer
+- 🌐 Learned Web Development only since 2023, now a well-versed `Fullstack` Developer
 
 ## 🛠️ Technologies and Skills
 
@@ -32,6 +32,12 @@ I am a student, web developer, and journalist.
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
+[![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)](https://tauri.app/)
+[![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](https://kit.svelte.dev/)
+[![Bun](https://img.shields.io/badge/Bun-FFE6C4?style=for-the-badge&logo=bun&logoColor=black)](https://bun.sh/)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
 ### Databases:
 
