@@ -3,7 +3,7 @@
 I am a student, web developer, and journalist.  
 
 ## About Me
-- 🎓 Bachelor of Science in Computer Science (3rd Year), major in Artificial Intelligence
+- 🎓 Bachelor of Science in Computer Science (3rd Year), major in `Artificial Intelligence`
 - 🏫 West Visayas State University
 - 🖋 Forum-Dimensions (The Official Publication of West Visayas State University) Staffer
 
@@ -44,7 +44,7 @@ I am a student, web developer, and journalist.
 I developed this purely by myself. It is my greatest creation so far.
 
 [Petsafe](https://github.com/Reiebenezer/petsafe-v2)
-This is my only Java project. This was my submission for my group's final project in Object-Oriented Programming (OOP)
+This is my only Java project. This was my submission for my group's final project in Object-Oriented Programming (OOP).
 
 [NarsTrack](https://github.com/Reiebenezer/nars-track)
 This is a native QR code reader application built as part of a commission. It's my first delve at [Tauri](https://v2.tauri.app/), a [Rust](https://www.rust-lang.org/)-based cross-platform framework. 
@@ -55,7 +55,7 @@ This is a prototype of the website I built for a commission. This is also one of
 [BullyChat](https://bully-chat.vercel.app/)
 This is a one-day project for an assignment. It integrates Gemini as a 'bully' in the website using the Gemini API. 
 
-There are more locally-based projects I was not able to include here. 
+> NOTE: There are more locally-based projects I was not able to include here, but I belive this should suffice.
 
 ## More About Me
 - My biggest skill? I work really fast when motivated. I mean, I code very quickly with the right motivation. I learn fast too.
