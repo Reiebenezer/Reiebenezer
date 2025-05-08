@@ -6,6 +6,7 @@ I am a student, web developer, and journalist.
 - 🎓 Bachelor of Science in Computer Science (3rd Year), major in `Artificial Intelligence`
 - 🏫 West Visayas State University
 - 🖋 Forum-Dimensions (The Official Publication of West Visayas State University) Staffer
+- Learned Web Development only since 2023, now a well-versed `Fullstack` Developer
 
 ## 🛠️ Technologies and Skills
 
@@ -37,6 +38,13 @@ I am a student, web developer, and journalist.
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+### Tools:
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 
 ## 🔭 Current Projects & Interests
 
