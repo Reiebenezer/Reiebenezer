@@ -59,7 +59,7 @@ I am a student, web developer, and journalist.
 - Decent communication skills
 - Innovative
 
-## 🔭 Current Projects & Interests
+## 🔭 Projects made by me
 
 [Forum-Dimensions official website](https://forumdimensions.org)
 A solo development project (so far) for the Forum-Dimensions official website
