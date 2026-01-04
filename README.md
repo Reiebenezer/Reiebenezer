@@ -3,7 +3,7 @@
 I am a student, web developer, and journalist.  
 
 ## About Me
-- 🎓 Bachelor of Science in Computer Science (3rd Year), major in `Artificial Intelligence`
+- 🎓 Bachelor of Science in Computer Science (4th Year), major in `Artificial Intelligence`
 - 🏫 West Visayas State University
 - 🖋 Forum-Dimensions (The Official Publication of West Visayas State University) Staffer
 - 🌐 Learned Web Development only since 2023, now a well-versed `Fullstack` Developer
