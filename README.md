@@ -68,9 +68,3 @@ This is a prototype of the website I built for a commission. This is also one of
 
 [BullyChat](https://bully-chat.vercel.app/)
 This is a one-day project for an assignment. It integrates Gemini as a 'bully' in the website using the Gemini API. 
-
-> NOTE: There are more locally-based projects I was not able to include here, but I belive this should suffice.
-
-## More About Me
-- My biggest skill? I work really fast when motivated. I mean, I code very quickly with the right motivation. I learn fast too.
-- I **HATE** vibe coding, but I use AI (only as a search engine and a code assistant).
