@@ -62,10 +62,19 @@ I am a student, web developer, and journalist.
 ## 🔭 Current Projects & Interests
 
 [Forum-Dimensions official website](https://forumdimensions.org)
-I developed this purely by myself. It is my greatest creation so far.
+A solo development project (so far) for the Forum-Dimensions official website
+
+[SpaceKit](https://github.com/Reiebenezer/spacekit)
+A fullstack PHP integration with [Astro](astro.build)
+
+[React + PHP SPA](https://github.com/Reiebenezer/react-php-spa)
+(Still in development) A fullstack framework for integrating PHP, React and TailwindCSS for Apache environments.
+
+[NeoDev](https://neodev-cict.vercel.app/)
+A sandbox development IDE for learning web development. It is my group's thesis project.
 
 [Petsafe](https://github.com/Reiebenezer/petsafe-v2)
-This is my only Java project. This was my submission for my group's final project in Object-Oriented Programming (OOP).
+My group's final project in Object-Oriented Programming (OOP)
 
 [NarsTrack](https://github.com/Reiebenezer/nars-track)
 This is a native QR code reader application built as part of a commission. It's my first delve at [Tauri](https://v2.tauri.app/), a [Rust](https://www.rust-lang.org/)-based cross-platform framework. 
@@ -75,3 +84,19 @@ This is a prototype of the website I built for a commission. This is also one of
 
 [BullyChat](https://bully-chat.vercel.app/)
 This is a one-day project for an assignment. It integrates Gemini as a 'bully' in the website using the Gemini API. 
+
+[Bisection Method Tool](https://opti-bisection-interactive.vercel.app/)
+A final project for our Optimization Theory subject
+
+[FD Pentalk Timer](https://fd-pentalk-timer.vercel.app/)
+A one-hour timer created for Forum-Dimensions' Pentalk 2.0 last December 2025. Developed in the same day it was used. 
+
+[FSLMasterCom/ISATayo](https://github.com/Reiebenezer/FSLMasterCom)
+A mobile app built for a commission. It is a guessing game for sign language.
+
+[Typescript Utils](https://github.com/Reiebenezer/ts-utils)
+A personal collection of utilities for [Typescript](https://www.typescriptlang.org/). 
+
+## 🔗 Contributed to the following projects: 
+- [WVSU-BINHI official website](https://binhi.wvsu.edu.ph/)
+- [Real Time Digital Point System Tracker for College Fundays](https://github.com/WVSU-CIPHER/ReDiPoST-v2) (Uses spacekit as the framework)
