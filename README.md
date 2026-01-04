@@ -3,10 +3,11 @@
 I am a student, web developer, and journalist.  
 
 ## About Me
-- 🎓 Bachelor of Science in Computer Science (4th Year), major in `Artificial Intelligence`
+- 🎓 Bachelor of Science in Computer Science (4th Year), major in Artificial Intelligence
 - 🏫 West Visayas State University
-- 🖋 Forum-Dimensions (The Official Publication of West Visayas State University) Staffer
-- 🌐 Learned Web Development only since 2023, now a well-versed `Fullstack` Developer
+- 🖋 DDET at Forum-Dimensions (The Official Publication of West Visayas State University)
+- 🌐 Learned Web Development only since 2023, now a well-versed fullstack web developer
+- 🌐 UI/UX designer
 
 ## 🛠️ Technologies and Skills
 
@@ -51,6 +52,12 @@ I am a student, web developer, and journalist.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
+
+### Other skills: 
+- Fast Developer and Problem Solver
+- Creative thinker
+- Decent communication skills
+- Innovative
 
 ## 🔭 Current Projects & Interests
 
