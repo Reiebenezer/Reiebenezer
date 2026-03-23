@@ -9,7 +9,7 @@ I am a student, web developer, and journalist.
 - 🏢 Intern at The Daily Guardian, Iloilo City, Iloilo
 - 🌐 Full Stack Web Developer
 - 🌐 UI/UX designer
-- 🛠️ Programmer and Robotics
+- 🤖 Robotics Developer
 - 📱 Mobile Developer
 
 ## 🛠️ Technologies and Skills
