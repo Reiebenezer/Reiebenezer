@@ -4,10 +4,13 @@ I am a student, web developer, and journalist.
 
 ## About Me
 - 🎓 Bachelor of Science in Computer Science (4th Year), major in Artificial Intelligence
-- 🏫 West Visayas State University
-- 🖋 DDET at Forum-Dimensions (The Official Publication of West Visayas State University)
-- 🌐 Learned Web Development only since 2023, now a well-versed fullstack web developer
+- 🏫 West Visayas State University, Iloilo City, Iloilo, Philippines
+- 🖋 Digital Development Editor for Technology at Forum-Dimensions (The Official Publication of West Visayas State University)
+- 🏢 Intern at The Daily Guardian, Iloilo City, Iloilo
+- 🌐 Full Stack Web Developer
 - 🌐 UI/UX designer
+- 🛠️ Programmer and Robotics
+- 📱 Mobile Developer
 
 ## 🛠️ Technologies and Skills
 
